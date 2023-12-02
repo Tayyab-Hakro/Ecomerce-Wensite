@@ -1,2 +1,2 @@
-# Ecomerce-Wensite
-I made this with html css Javascript with my hands Please give  me you b=valuable comments
+# Eccomerce-Website
+I made this with html css Javascript with my hands Please give  me your valuable comments
